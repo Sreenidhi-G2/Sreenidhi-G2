@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sreenidhi G</h1>
-<h3 align="center">An AI/ML enthusiast and Full-Stack Developer from India</h3>
+<h3 align="center">A Full-Stack Developer from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreenidhi-g-4537382a4/">
@@ -12,13 +12,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 I’m currently working on **Connect** – a MERN + Socket.IO chat app.
-- 🧠 I’m exploring **Deep Fake Detection** using CNNs and TensorFlow.
-- 👨‍💼 I’m freelancing as a **Front-End Developer** at **Ashwa Code Labs**.
-- 💡 I’m passionate about building startups; currently working on **SFP Masalas**.
-- 📫 How to reach me: **Connect on [LinkedIn](https://www.linkedin.com/in/sreenidhi-g-4537382a4/)**
+- I’m currently working on **Connect** – a MERN + Socket.IO chat app.
+- I’m exploring **Deep Fake Detection** using CNNs and TensorFlow.
+- I’m working as a **Software Developer Intern ** at **ICUBE Consulting Services India Private Ltd**.
+- I’m passionate about building startups; currently working on **SFP Masalas**.
+- How to reach me: **Connect on [LinkedIn](https://www.linkedin.com/in/sreenidhi-g-4537382a4/)**
 
 ### 🛠 Tech Stack
 
@@ -29,4 +29,4 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
