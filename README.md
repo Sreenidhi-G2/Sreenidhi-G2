@@ -13,14 +13,27 @@
 ---
 
 ### About Me
+I am a **passionate developer** who loves building impactful applications and exploring new technologies.  
+I thrive on solving real-world problems and am eager to **work on real-time projects** that challenge my skills and broaden my experience.
 
-- I’m currently working on **Connect** – a MERN + Socket.IO chat app.
-- I’m exploring **Deep Fake Detection** using CNNs and TensorFlow.
-- I’m working as a **Software Developer Intern ** at **ICUBE Consulting Services India Private Ltd**.
-- I’m passionate about building startups; currently working on **SFP Masalas**.
+- Currently focusing on DSA  **solving LeetCode** problems and improving my **problem-solving skills**.
+- I’m working as a **Software Developer Intern** at **ICUBE Consulting Services India Private Ltd**.
 - How to reach me: **Connect on [LinkedIn](https://www.linkedin.com/in/sreenidhi-g-4537382a4/)**
 
-### 🛠 Tech Stack
+### Projects
+
+- [**Bricky**](http://bricky-chatbot.s3-website.ap-south-1.amazonaws.com)  
+  An **AI-powered chatbot** built to provide intelligent, conversational responses.  
+  Designed with a focus on real-time interaction and scalable backend integration.
+
+- [**Connect**](http://connect-chat-application.s3-website.ap-south-1.amazonaws.com)  
+  A real-time **MERN + Socket.IO chat application** with features like messaging, notifications, and typing indicators.  
+  *(Work in progress – Open Source project)*
+
+
+
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
