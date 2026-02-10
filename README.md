@@ -10,7 +10,7 @@ Software Engineer | Full-Stack Developer | AI/ML Enthusiast
   <a href="https://github.com/Sreenidhi-G2">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://d6bpte5o5iq8m.cloudfront.net/">
+  <a href="https://portfolio-dev-ten-iota.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=firefox&logoColor=38BDF8"/>
   </a>
 </p>
@@ -33,21 +33,9 @@ I enjoy building **production-ready systems**, optimizing performance, and solvi
 
 ### 💼 Work Experience
 
-**Software Development Engineer Intern — Legabyte Innovations (Remote)**  
-- Engineered scalable admin backend using **Express.js, DynamoDB, AWS S3**
-- Reduced average data retrieval latency by **~30%**
-- Built **10+ RESTful APIs** with secure CRUD operations
-- Collaborated using Git workflows and resolved **10+ merge conflicts**
-
-**Software Developer Intern — Intuceo (Remote)**  
-- Built backend services using **FastAPI**, improving response times by **~20%**
-- Designed SQL schemas supporting analytics pipelines
-- Integrated APIs ensuring reliable data flow across services
-
-**Freelance Frontend Developer — Ashwa Code Labs (Remote)**  
-- Built production-ready UI using **React + Tailwind CSS**
-- Improved user engagement by **~40%**
-- Deployed frontend on **AWS S3 + CloudFront**
+- **Software Development Engineer Intern — Legabyte Innovations (Remote)**  
+- **Software Developer Intern — Intuceo (Remote)**  
+- **Freelance Frontend Developer — Ashwa Code Labs (Remote)**  
 
 ---
 
@@ -55,24 +43,10 @@ I enjoy building **production-ready systems**, optimizing performance, and solvi
 
 #### 🔍 Deepfake Image Detection
 **CNN | TensorFlow | Django | React**  
-- Trained a CNN on **40,000+ real & fake images**
-- Achieved **~90% validation accuracy**
-- Integrated model with **Django REST API** for real-time inference
-- Built React frontend for image uploads and predictions
-
 #### ⚡ Short Ninja — URL Shortener
 **Go (Fiber) | MongoDB | AWS EC2**  
-- Handled **5,000+ requests** during load testing
-- Maintained **<40ms p95 API latency**
-- Implemented **SHA-256 + salted key generation**
-- Zero collisions across **10,000+ URLs**
-
 #### 💬 Connect — Chat Backend
 **Node.js | Express | MongoDB**  
-- Designed chat backend with **JWT authentication**
-- Implemented chatrooms and message indexing
-- Built **graph-based user matchmaking system** using shared interests
-
 ---
 
 ### 🏆 Achievements
